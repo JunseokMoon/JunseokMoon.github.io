@@ -2,9 +2,7 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu:  https://nanomat.snu.ac.kr/ # your organization and your username Ex. https://organization.academia.edu/UserName
-  organization: # your organization as appears in the subdomain
-  username: # your username
+
 # acm_id: # your dl.acm.org/profile/id
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
