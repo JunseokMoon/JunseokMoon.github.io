@@ -16,7 +16,6 @@ nav_order: 5
     font-weight: bold;
     border-bottom: 1px solid #e0e0e0; /* 연도 아래 밑줄 */
     padding-bottom: 5px;
-    color: #333;
   }
   /* 리스트 스타일 */
   ul.award-list {
@@ -30,11 +29,9 @@ nav_order: 5
   }
   .award-title {
     font-weight: bold;
-    color: #000;
   }
   .award-org {
     font-style: italic;
-    color: #666;
   }
 </style>
 
