@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-honors-and-awards",
-          title: "Honors and Awards",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/honors/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
@@ -57,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-honors-and-awards",
+          title: "Honors and Awards",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/honors/";
           },
         },{id: "post-machine-learning-driven-materials-discovery",
         
