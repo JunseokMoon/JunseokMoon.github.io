@@ -81,7 +81,7 @@ ninja.data = [{
             },},{id: "news-seoul-national-university-snu-seoul-republic-of-korea-b-s-in-chemical-and-biological-engineering",
           title: 'Seoul National University (SNU), Seoul, Republic of Korea B.S. in Chemical and Biological...',
           description: "",
-          section: "News",},{id: "news-seoul-national-university-snu-seoul-republic-of-korea-ph-d-candidate-in-chemical-and-biological-engineering-supervisor-prof-taeghwan-hyeon-hyeon-group",
+          section: "News",},{id: "news-seoul-national-university-snu-seoul-republic-of-korea-ph-d-candidate-in-chemical-and-biological-engineering-supervisor-prof-taeghwan-hyeon-hyeon-research-group",
           title: 'Seoul National University (SNU), Seoul, Republic of Korea Ph.D. candidate in Chemical and...',
           description: "",
           section: "News",},{id: "projects-project-1",
