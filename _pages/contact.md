@@ -26,18 +26,15 @@ description:
     width: 35px;
     text-align: center;
     margin-right: 15px;
-    color: #555;
     font-size: 1.3rem;
   }
   /* 링크 텍스트 스타일 */
   .contact-link {
-    color: #333;
     text-decoration: none;
     border-bottom: 1px dashed #ccc;
     transition: color 0.2s;
   }
   .contact-link:hover {
-    color: #007bff;
     border-bottom: 1px solid #007bff;
   }
 </style>
