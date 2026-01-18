@@ -497,18 +497,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-cv',
+        title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%73%6D%6F%6F%6E%30%33%31%31@%73%6E%75.%61%63.%6B%72", "_blank");
+          window.open("/assets/pdf/CV_Jan17_2026_JSM.pdf", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/JunseokMoon", "_blank");
+          window.open("https://scholar.google.com/citations?user=oSdxqQ8AAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -525,13 +525,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-9631-8990", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=oSdxqQ8AAAAJ", "_blank");
-        },
-      },{
         id: 'social-work',
         title: 'Work',
         section: 'Socials',
@@ -539,11 +532,18 @@ ninja.data = [{
           window.open("https://nanomat.snu.ac.kr/", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_Jan17_2026_JSM.pdf", "_blank");
+          window.open("https://github.com/JunseokMoon", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6A%73%6D%6F%6F%6E%30%33%31%31@%73%6E%75.%61%63.%6B%72", "_blank");
         },
       },{
       id: 'light-theme',
