@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-seoul-national-university-snu-seoul-republic-of-korea",
+            },},{id: "news-seoul-national-university-snu-seoul-republic-of-korea",
           title: 'Seoul National University (SNU), Seoul, Republic of Korea',
           description: "",
           section: "News",},{id: "news-seoul-national-university-snu-seoul-republic-of-korea-ph-d-candidate-in-chemical-and-biological-engineering-supervisor-prof-taeghwan-hyeon",
