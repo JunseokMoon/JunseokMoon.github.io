@@ -59,7 +59,7 @@ description:
   
   <li>
     <div class="contact-icon"><i class="fas fa-briefcase"></i></div>
-    <a href="https://nanomat.snu.ac.kr/" target="_blank" class="contact-link">Hyeon Group</a>
+    <a href="https://nanomat.snu.ac.kr/" target="_blank" class="contact-link">Prof. Hyeon Group</a>
   </li>
 </ul>
 
