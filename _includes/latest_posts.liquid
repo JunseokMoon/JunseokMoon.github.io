@@ -7,7 +7,15 @@
         {% for item in site.posts limit: latest_posts_limit %}
           <tr>
             <td style="width: 100%; border: none;">
-              {{ item.title }}
+              <div style="font-weight: bold; color: inherit;">
+                {{ item.title }}
+              </div>
+              
+              {% if item.description %}
+                <div style="font-size: 0.95rem; color: #666; margin-top: 4px;">
+                  {{ item.description }}
+                </div>
+              {% endif %}
             </td>
           </tr>
         {% endfor %}
