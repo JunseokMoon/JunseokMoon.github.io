@@ -7,7 +7,7 @@
         {% for item in site.posts limit: latest_posts_limit %}
           <tr>
             <td style="width: 100%; border: none;">
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {{ item.title }}
             </td>
           </tr>
         {% endfor %}
