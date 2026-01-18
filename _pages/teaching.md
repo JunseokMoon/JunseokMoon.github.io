@@ -30,9 +30,9 @@ nav_order: 2
   }
 </style>
 
-<h2 class="category">1. Research Interests</h2>
+<h2 class="category">Research Interests</h2>
 
-<h4 class="subcategory">1-1. Machine Learning-Driven Materials Discovery for Energy Applications</h4>
+<h4 class="subcategory">Machine Learning-Driven Materials Discovery for Energy Applications</h4>
 <ul class="research-list">
   <li>Design of Active Learning Workflow and Algorithm</li>
   <li>Programming and Analyzing Machine Learning Models</li>
@@ -45,9 +45,9 @@ nav_order: 2
 </ul>
 
 
-<h2 class="category">2. Research Expertise</h2>
+<h2 class="category">Research Expertise</h2>
 
-<h4 class="subcategory">2-1. Machine Learning-Driven Materials Discovery</h4>
+<h4 class="subcategory">Machine Learning-Driven Materials Discovery</h4>
 <ul class="research-list">
   <li>Design of Closed-loop Protocol and Active Learning Strategy</li>
   <li>Programming Deep Learning Models (Graph Neural Networks, Computer Vision, Natural Language Processing)</li>
@@ -57,7 +57,7 @@ nav_order: 2
   <li>Visualization of Exploring Chemical Spaces (t-distributed Stochastic Neighbor Embedding)</li>
 </ul>
 
-<h4 class="subcategory">2-2. Synthesis of Nanomaterials</h4>
+<h4 class="subcategory">Synthesis of Nanomaterials</h4>
 <ul class="research-list">
   <li>Synthesis of Metal Oxides (High-Entropy Oxides, Multi-Metallic Perovskite, Spinel, and Rutile Oxides)</li>
   <li>Synthesis of Metal Alloys (Platinum-Group-Metal Alloys, High-Entropy Alloys)</li>
@@ -67,21 +67,21 @@ nav_order: 2
   <li>Surface and Bulk Modification of Nanomaterials (Facet Control, Composition and Phase Tuning)</li>
 </ul>
 
-<h4 class="subcategory">2-3. Structural Characterization of Nanomaterials</h4>
+<h4 class="subcategory">Structural Characterization of Nanomaterials</h4>
 <ul class="research-list">
   <li>Analyzing Geometric and Electronic Structure of Nanomaterials</li>
   <li>Discovering Structure-Property Relationships using Machine Learning and Statistics</li>
   <li>Synchrotron-based X-ray Characterization Techniques</li>
 </ul>
 
-<h4 class="subcategory">2-4. Electrochemical Characterization of Nanomaterials</h4>
+<h4 class="subcategory">Electrochemical Characterization of Nanomaterials</h4>
 <ul class="research-list">
   <li>Catalytic Performance Measurements for Electrochemical Reactions (Activity, Stability)</li>
   <li>Setting-Up Half-Cell and Single-Cell Devices</li>
   <li>Analysis of Material Structure Changes Before and After Reactions</li>
 </ul>
 
-<h4 class="subcategory">2-5. Applications of Nanomaterials in Energy Applications</h4>
+<h4 class="subcategory">Applications of Nanomaterials in Energy Applications</h4>
 <ul class="research-list">
   <li>Electrochemical and Photochemical Catalysis (Oxygen Evolution, Hydrogen Evolution, Oxygen Reduction)</li>
   <li>Batteries (Electrolytes for All-Solid-State Batteries, Cathode Materials for Lithium-Ion Batteries)</li>
@@ -89,16 +89,16 @@ nav_order: 2
 </ul>
 
 
-<h2 class="category">3. Technical Skills (Self-Operating)</h2>
+<h2 class="category">Technical Skills (Self-Operating)</h2>
 
-<h4 class="subcategory">3-1. Machine Learning</h4>
+<h4 class="subcategory">Machine Learning</h4>
 <ul class="research-list">
   <li>Design of Materials Discovery Protocols</li>
   <li>Python Programming (Keras, PyTorch)</li>
   <li>Model Construction and Analysis (Graph Neural Network, CNN, RNN, Reinforcement Learning, Text Mining, Random Forest, Gaussian Process)</li>
 </ul>
 
-<h4 class="subcategory">3-2. Synthesis and Structural Characterization</h4>
+<h4 class="subcategory">Synthesis and Structural Characterization</h4>
 <ul class="research-list">
   <li>Air-free Schlenk Techniques for Nanomaterial Synthesis</li>
   <li>Glove Box Techniques for Nanomaterial Synthesis</li>
@@ -110,7 +110,7 @@ nav_order: 2
   <li>Powder X-Ray Diffraction (Rigaku D/Max-3C)</li>
 </ul>
 
-<h4 class="subcategory">3-3. Electrochemical Characterization</h4>
+<h4 class="subcategory">Electrochemical Characterization</h4>
 <ul class="research-list">
   <li>Setting-Up Devices (PGSTAT302N)</li>
   <li>Catalyst Ink Preparation and Electrolyte Purification</li>
