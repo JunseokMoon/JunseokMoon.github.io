@@ -19,7 +19,6 @@ nav_order: 2
     margin-top: 30px;
     margin-bottom: 15px;
     font-weight: 600;
-    color: #555;
   }
   ul.research-list {
     margin-bottom: 30px;
