@@ -14,7 +14,6 @@ nav_order: 6
     margin-bottom: 10px;
     font-weight: 800; /* 아주 굵게 */
     font-size: 1.8rem;
-    color: #222;
   }
   
   /* 연도 헤더 (소분류) */
@@ -25,7 +24,6 @@ nav_order: 6
     font-weight: 600;
     border-bottom: 1px solid #e0e0e0;
     padding-bottom: 5px;
-    color: #555;
   }
 
   /* 리스트 스타일 */
@@ -39,10 +37,8 @@ nav_order: 6
   }
   .role-title {
     font-weight: bold;
-    color: #000;
   }
   .detail-text {
-    color: #444;
   }
 </style>
 
