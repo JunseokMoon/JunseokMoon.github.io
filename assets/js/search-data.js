@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-honors-and-awards",
           title: "Honors and Awards",
           description: "",
@@ -50,13 +57,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/activities/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-machine-learning-driven-materials-discovery",
         
