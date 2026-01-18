@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph. D Candidate | Seoul National University
+subtitle: Ph.D. Candidate | Seoul National University
 
 profile:
   align: right
@@ -26,13 +26,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in Chemical and Biological Engineering at Seoul National University, specializing in the intersection of artificial intelligence and materials science. 
 
-My research capability was demonstrated early in my doctoral journey, highlighted by a sole first-author publication in Nature Materials achieved in my second year (submitted during the first). 
+I am a Ph.D. candidate in Chemical and Biological Engineering at Seoul National University, specializing in the intersection of artificial intelligence and materials science.
 
-By synergizing deep learning frameworks with hands-on synthesis and electrochemical characterization, I accelerate the discovery of next-generation solutions—ranging from clean-energy catalysts to bio-inspired materials. 
+My research capability was demonstrated early in my doctoral journey, highlighted by a sole first-author publication in Nature Materials achieved in my second year (submitted during the first).
 
-I am deeply committed to translating abstract algorithms into real-world impact for sustainable energy and green hydrogen technologies, while advocating for explainable, human-centered AI. 
+By synergizing deep learning frameworks with hands-on synthesis and electrochemical characterization, I accelerate the discovery of next-generation solutions—ranging from clean-energy catalysts to bio-inspired materials.
+
+I am deeply committed to translating abstract algorithms into real-world impact for sustainable energy and green hydrogen technologies, while advocating for explainable, human-centered AI.
 
 My ultimate vision is to pioneer automated laboratories where AI, robotics, and scientists collaborate to engineer a sustainable future.
 
