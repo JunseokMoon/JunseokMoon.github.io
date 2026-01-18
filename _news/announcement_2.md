@@ -6,6 +6,6 @@ inline: true
 related_posts: false
 ---
 
-Seoul National University (SNU), Seoul, Republic of Korea
-Ph.D. candidate in Chemical and Biological Engineering
-Supervisor: [Prof. Taeghwan Hyeon](https://nanomat.snu.ac.kr/)
+<b>Seoul National University (SNU), Seoul, Republic of Korea<b><br>
+Ph.D. candidate in Chemical and Biological Engineering<br>
+<i>Supervisor<i>: [<b>Prof. Taeghwan Hyeon<b>]([https://nanomat.snu.ac.kr/](https://scholar.google.com/citations?user=XCZGA6QAAAAJ&hl=ko&oi=ao))
