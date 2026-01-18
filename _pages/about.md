@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate | Seoul National University | Machine learning-driven materials discovery for energy and biomedical applications
+subtitle: Ph.D. Candidate | Seoul National University
 
 profile:
   align: right
