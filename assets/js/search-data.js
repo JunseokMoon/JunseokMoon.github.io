@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/post_1/";
           
         },
+      },{id: "post-synthesis-and-characterization-of-inorganic-functional-nanomaterials",
+        
+          title: "Synthesis and characterization of inorganic functional nanomaterials",
+        
+        description: "Metal oxides, alloys, single-atom catalysts, metal-organic-frameworks, clusters, and more!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/post_2/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
