@@ -7,3 +7,5 @@ related_posts: false
 ---
 
 Seoul National University (SNU), Seoul, Republic of Korea
+
+B.S. in Chemical and Biological Engineering
