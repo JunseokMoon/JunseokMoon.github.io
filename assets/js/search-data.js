@@ -87,7 +87,7 @@ ninja.data = [{
         
           title: "Synthesis and characterization of inorganic functional nanomaterials",
         
-        description: "Metal oxides, halides, alloys, single-atom catalysts, metal-organic-frameworks, clusters, and more",
+        description: "Metal oxides, halides, alloys, single-atom catalysts, clusters, metal-organic-frameworks, and more",
         section: "Posts",
         handler: () => {
           
