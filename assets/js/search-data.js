@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-seoul-national-university-snu-seoul-republic-of-korea",
-          title: 'Seoul National University (SNU), Seoul, Republic of Korea',
+            },},{id: "news-seoul-national-university-snu-seoul-republic-of-korea-b-s-in-chemical-and-biological-engineering",
+          title: 'Seoul National University (SNU), Seoul, Republic of Korea B.S. in Chemical and Biological...',
           description: "",
           section: "News",},{id: "news-seoul-national-university-snu-seoul-republic-of-korea-ph-d-candidate-in-chemical-and-biological-engineering-supervisor-prof-taeghwan-hyeon",
           title: 'Seoul National University (SNU), Seoul, Republic of Korea Ph.D. candidate in Chemical and...',
