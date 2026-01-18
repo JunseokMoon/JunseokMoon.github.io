@@ -36,8 +36,3 @@ By synergizing deep learning frameworks with hands-on synthesis and electrochemi
 I am deeply committed to translating abstract algorithms into real-world impact for sustainable energy and green hydrogen technologies, while advocating for explainable, human-centered AI.
 
 My ultimate vision is to pioneer automated laboratories where AI, robotics, and scientists collaborate to engineer a sustainable future.
-
-[Link](http://reddit.com).
-[publications page](/al-folio/publications/)
-[Font Awesome icons](https://fontawesome.com/)
-[Academicons](https://jpswalsh.github.io/academicons/)
