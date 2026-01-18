@@ -29,7 +29,7 @@ latest_posts:
 
 Hello! I am a Ph.D. candidate in Chemical and Biological Engineering at Seoul National University, specializing in the intersection of artificial intelligence and materials science.
 
-My research capability was demonstrated early in my doctoral journey, highlighted by a sole first-author publication in [Nature Materials](https://www.nature.com/articles/s41563-023-01707-w) achieved in my second year (submitted during the first).
+My research capability was demonstrated early in my doctoral journey, highlighted by a sole first-author publication in [<b><i>Nature Materials</b></i>](https://www.nature.com/articles/s41563-023-01707-w) achieved in my second year (submitted during the first).
 
 By synergizing deep learning frameworks with hands-on synthesis and electrochemical characterization, I accelerate the discovery of next-generation solutions—ranging from clean-energy catalysts to bio-inspired materials.
 
