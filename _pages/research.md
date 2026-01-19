@@ -31,7 +31,7 @@ nav_order: 2
 
 <h2 class="category">Research Interests</h2>
 
-<h4 class="subcategory">Machine Learning-Driven Materials Discovery for Energy Applications</h4>
+<h4 class="subcategory">Machine Learning-Driven Materials Discovery for Energy and Biomedical Applications</h4>
 <ul class="research-list">
   <li>Design of Active Learning Workflow and Algorithm</li>
   <li>Programming and Analyzing Machine Learning Models</li>
@@ -56,9 +56,11 @@ nav_order: 2
   <li>Visualization of Exploring Chemical Spaces (t-distributed Stochastic Neighbor Embedding)</li>
 </ul>
 
-<h4 class="subcategory">Synthesis of Nanomaterials</h4>
+<h4 class="subcategory">Synthesis of Inorganic Functional Materials</h4>
 <ul class="research-list">
+  <li>Synthesis of Inorganic Bulk/Nanomaterials (Sol-Gel, Solid-State, Wet Impregnation, Hydrothermal, Heat-Up)</li>
   <li>Synthesis of Metal Oxides (High-Entropy Oxides, Multi-Metallic Perovskite, Spinel, and Rutile Oxides)</li>
+  <li>Synthesis of Metal Halides (Lithium Metal Halides)</li>
   <li>Synthesis of Metal Alloys (Platinum-Group-Metal Alloys, High-Entropy Alloys)</li>
   <li>Synthesis of Single-Atom Catalysts (M−N−C Materials, Single-Atom Catalysts on Oxides)</li>
   <li>Synthesis of Metal-Organic-Frameworks</li>
@@ -82,8 +84,8 @@ nav_order: 2
 
 <h4 class="subcategory">Applications of Nanomaterials in Energy Applications</h4>
 <ul class="research-list">
-  <li>Electrochemical and Photochemical Catalysis (Oxygen Evolution, Hydrogen Evolution, Oxygen Reduction)</li>
-  <li>Batteries (Electrolytes for All-Solid-State Batteries, Cathode Materials for Lithium-Ion Batteries)</li>
+  <li>Electrochemical and Photochemical Catalysis (Oxygen Evolution, Hydrogen Evolution, Oxygen Reduction, CO2 Reduction)</li>
+  <li>Batteries (Electrolytes for All-Solid-State Batteries, Cathode Materials for Lithium-Ion and Sodium-Ion Batteries, Anode-Free Batteries)</li>
   <li>Biomedicine (mRNA Delivery using Nanoparticles)</li>
 </ul>
 
@@ -94,18 +96,22 @@ nav_order: 2
 <ul class="research-list">
   <li>Design of Materials Discovery Protocols</li>
   <li>Python Programming (Keras, PyTorch)</li>
-  <li>Model Construction and Analysis (Graph Neural Network, CNN, RNN, Reinforcement Learning, Text Mining, Random Forest, Gaussian Process)</li>
+  <li>Model Construction and Analysis (Graph Neural Network, Convolutional Neural Network, Recurrent Neural Network, Reinforcement Learning, Random Forest, Gaussian)</li>
+  <li>Text Mining (Natural Language Processing, Term Frequency-Inverse Document Frequency)</li>
+  <li>Explainable Chatbot Development (GPT-4.1, FAISS)</li>
 </ul>
 
 <h4 class="subcategory">Synthesis and Structural Characterization</h4>
 <ul class="research-list">
-  <li>Air-free Schlenk Techniques for Nanomaterial Synthesis</li>
-  <li>Glove Box Techniques for Nanomaterial Synthesis</li>
+  <li>Various Techniques for Inorganic Functional Materials Synthesis (Sol-Gel, Solid-State, Wet Impregnation, Hydrothermal, Heat-Up Process)</li>
+  <li>Air-free Schlenk Techniques for Inorganic Functional Materials Synthesis</li>
+  <li>Glove Box Techniques for Inorganic Functional Materials Synthesis</li>
+  <li>Ball Milling Techniques for Inorganic Functional Materials Synthesis</li>
   <li>Transmission Electron Microscope (JEOL JEM-2020, JEM-2100)</li>
   <li>Synchrotron X-ray Absorption Spectroscopy</li>
   <li>UV-Vis Spectrophotometer</li>
-  <li>BET Analysis (Micromeritics)</li>
-  <li>X-ray Photoelectron Spectroscopy (XPS)</li>
+  <li>BET analysis (Micromeritics)</li>
+  <li>X-ray Photoelectron Spectroscopy</li>
   <li>Powder X-Ray Diffraction (Rigaku D/Max-3C)</li>
 </ul>
 
@@ -113,5 +119,6 @@ nav_order: 2
 <ul class="research-list">
   <li>Setting-Up Devices (PGSTAT302N)</li>
   <li>Catalyst Ink Preparation and Electrolyte Purification</li>
-  <li>Catalytic Activity and Stability Measurements (OER, HER, ORR)</li>
+  <li>Catalytic Activity and Stability Measurements (Oxygen Evolution, Hydrogen Evolution, Oxygen Reduction)</li>
+  <li>Conductivity Measurements (Electrolytes for All-Solid-State Batteries)</li>
 </ul>
