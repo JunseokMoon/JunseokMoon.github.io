@@ -7,7 +7,7 @@ nav_order: 3
 description: 
 ---
 
-{% assign cv_filename = 'CV_Jan17_2026_JSM.pdf' %}
+{% assign cv_filename = 'CV_Jan19_2026_JSM.pdf' %}
 
 {% capture cv_path %}assets/pdf/{{ cv_filename }}{% endcapture %}
 
