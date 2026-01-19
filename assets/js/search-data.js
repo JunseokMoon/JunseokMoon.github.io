@@ -55,7 +55,7 @@ ninja.data = [{
         
           title: "Machine learning-driven materials discovery",
         
-        description: "Catalysis, battery, biomedical applications, and more",
+        description: "Battery, catalysis, biomedical applications, lab automation, and more",
         section: "Posts",
         handler: () => {
           
