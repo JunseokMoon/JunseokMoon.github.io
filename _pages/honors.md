@@ -38,6 +38,14 @@ nav_order: 3
   }
 </style>
 
+<h3 class="year">2026</h3>
+<ul class="award-list">
+  <li>
+    <span class="award-title">Silver Prize</span><br>
+    <span class="award-org">The 32nd Samsung Humantech Paper Awards, Samsung Electronics</span>
+  </li>
+</ul>
+
 <h3 class="year">2025</h3>
 <ul class="award-list">
   <li>
