@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-13'
 papers:
   oSdxqQ8AAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: "Low\u2010Temperature Atomic Metal Deposition for an Efficient Dual\u2010Site Incorporated Photocatalyst"
     year: '2025'
   oSdxqQ8AAAAJ:9yKSN-GCB0IC:
-    citations: 156
+    citations: 158
     title: Active learning guides discovery of a champion four-metal perovskite oxide for oxygen evolution electrocatalysis
     year: '2024'
   oSdxqQ8AAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: Cross-material catalyst discovery via deep learning
     year: '2026'
   oSdxqQ8AAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 7
     title: Design principles for non-iridium-based oxygen evolution catalysts in proton exchange membrane water electrolyzers
     year: '2025'
   oSdxqQ8AAAAJ:d1gkVwhDpl0C:
@@ -22,6 +22,6 @@ papers:
     title: "Oxygen-plasma-treated Fe\u2013N\u2013C catalysts with dual binding sites for enhanced electrocatalytic polysulfide conversion in lithium\u2013sulfur batteries"
     year: '2022'
   oSdxqQ8AAAAJ:qjMakFHDy7sC:
-    citations: 8
+    citations: 10
     title: Spinel/Rock Salt Core/Shell High-Entropy Oxides for Selective CO2 Hydrogenation
     year: '2025'
