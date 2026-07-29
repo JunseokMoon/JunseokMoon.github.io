@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-29'
 papers:
   oSdxqQ8AAAAJ:2osOgNQ5qMEC:
     citations: 8
     title: "Low\u2010Temperature Atomic Metal Deposition for an Efficient Dual\u2010Site Incorporated Photocatalyst"
     year: '2025'
   oSdxqQ8AAAAJ:9yKSN-GCB0IC:
-    citations: 159
+    citations: 161
     title: Active learning guides discovery of a champion four-metal perovskite oxide for oxygen evolution electrocatalysis
     year: '2024'
   oSdxqQ8AAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: Cross-material catalyst discovery via deep learning
     year: '2026'
   oSdxqQ8AAAAJ:UeHWp8X0CEIC:
-    citations: 7
+    citations: 8
     title: Design principles for non-iridium-based oxygen evolution catalysts in proton exchange membrane water electrolyzers
     year: '2025'
   oSdxqQ8AAAAJ:d1gkVwhDpl0C:
